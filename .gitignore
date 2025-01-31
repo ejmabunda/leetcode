@@ -1,0 +1,2 @@
+# Ignore Python temp files
+__pycache__
